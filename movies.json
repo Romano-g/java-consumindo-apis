@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Superman",
+    "ReleaseYear": 1978,
+    "IncludedInSubscription": false,
+    "SumOfRatings": 0.0,
+    "TotalRatingVotes": 0,
+    "DurationInMinutes": 143
+  },
+  {
+    "Name": "Matrix",
+    "ReleaseYear": 1993,
+    "IncludedInSubscription": false,
+    "SumOfRatings": 0.0,
+    "TotalRatingVotes": 0,
+    "DurationInMinutes": 60
+  },
+  {
+    "Name": "Dogville",
+    "ReleaseYear": 2003,
+    "IncludedInSubscription": false,
+    "SumOfRatings": 0.0,
+    "TotalRatingVotes": 0,
+    "DurationInMinutes": 178
+  }
+]
